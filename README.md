@@ -10,3 +10,4 @@ A new Flutter project.
 [alga](https://github.com/laiiihz/alga)
 [DevToys](https://github.com/veler/DevToys)
 [DevToysMac](https://github.com/ObuchiYuki/DevToysMac)
+[RepoBatch](https://github.com/linkaipeng/repo_batch)
